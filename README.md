@@ -20,6 +20,8 @@ Here are some of my works:
 - **MarketFlow** – Real-time crypto data processing system in Go
 - **Tourist Planner** - A web application for tourists to find hotels near their planned destinations
 - **Digital Journal Online** - Platform for scholarships, internships, grants and etc.
+- **Ride Hail** - Platform for end-to-end ride hailing system
+- **Ollama TG bot** - Ollama + TG
 ---
 
 ## 📚 Currently Learning
