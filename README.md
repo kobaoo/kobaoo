@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Koblandy!
 
-<!--
-**kobaoo/kobaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **backend developer** and a student at Astana IT University (AITU).  
+I love building real-world applications, exploring backend technologies, and improving my skills every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+**Languages:** Go, Python  
+**Backend:** Go Fiber, FastAPI  
+**Databases:** PostgreSQL, NoSQL (MongoDB), Redis  
+**Tools:** Docker, Git, Postman, RabbitMQ  
+**Others:** Streamlit, Grafana, Prometheus
+
+---
+
+## 🔥 Featured Projects
+Here are some of my works:
+- **Transportation Problem Solver** – Least Cost + MODI algorithm with GUI
+- **MarketFlow** – Real-time crypto data processing system in Go
+- **Tourist Planner** - A web application for tourists to find hotels near their planned destinations
+- **Digital Journal Online** - Platform for scholarships, internships, grants and etc.
+---
+
+## 📚 Currently Learning
+- Advanced Go 
+- Machine Learning model deployment  
+
+---
+
+## 📫 Contact Me
+📧 Email: koblandi@gmail.com 
+🔗 LinkedIn: https://linkedin.com/in/koblandy-seipolla-83a8002b9/
